@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhavpatilviv23
+- 👋 Hi, I’m Vaibhav Patil
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning Android App Devlopement
 - 📫 You can reach me through twitter as this is the social media app use mostly here is my handle: https://twitter.com/VaibhavVishnuP2
